@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557556892803",
+    "project_id": "fir-authexample-rizal",
+    "storage_bucket": "fir-authexample-rizal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557556892803:android:9c1d4b0034994cada247b6",
+        "android_client_info": {
+          "package_name": "com.catnip.firebaseauthexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBql4Tqg3BQivZ4I51xWL2mPeTngIiD0-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
